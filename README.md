@@ -1,4 +1,4 @@
-# Event-management-system
+# Event management system
 
 🚀 **Live Demo**: [Event Management System (Deployed on InfinityFree)](http://sadiashakibaphp.infinityfreeapp.com/)  
 
@@ -84,7 +84,7 @@ Example Response:
 🔹 Enable **Apache & MySQL** from the XAMPP Control Panel  
 
 ### **2️⃣ Project Setup**  
-📌 Extract and place the **`event_management_system`** folder into:  
+📌 Extract from github and place the **`event_management_system`** folder into:  
 ```
 C:\xampp\htdocs\
 ```
