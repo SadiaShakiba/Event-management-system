@@ -97,9 +97,6 @@ $events = getFilteredEvents($pdo, $date, $time);
                                 <div class="row">
                                     <div class="col-lg-6 col-4">
                                         <h4>Events</h4>
-                                        <p class="text-sm mb-0">
-                                            <i class="fa fa-check text-info" aria-hidden="true"></i>
-                                        </p>
                                     </div>
                                     <div class="col-lg-6 col-8">
                                         <form action="" method="GET">
